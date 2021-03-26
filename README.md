@@ -59,7 +59,7 @@ venue.yell_at_patrons
 Now, it is time for you to write your own tests! Follow the interaction pattern
 below to write one test, make that test pass, and move on to the next test.
 You will have at minimum, one test per new method.
-* The method `over_capacity` will return true or false if the venue has more patrons
+* The method `over_capacity` will return true or false based on if the venue has more patrons
 than the capacity
 
 ```ruby
